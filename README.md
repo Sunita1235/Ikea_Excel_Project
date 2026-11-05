@@ -31,5 +31,5 @@ Microsoft Excel · Pivot Tables · Pivot Charts · Slicers · XLOOKUP · INDEX-M
 ## 📂 Files
 | File | Description |
 |---|---|
-| [IKEA_Sales_Dashboard.xlsx](IKEA_Sales_Dashboard.xlsx) | Excel dashboard and analysis |
-| [IKEA_Sales_Data.csv](IKEA_Sales_Data.csv) | Dataset used |
+| [IKEA_Dashboard.png](IKEA_Dashboard.png) | Excel dashboard|
+| [IKEA_Excel_Project.xlsx](IKEA_Excel_Project.xlsx) | Project Documentation |
